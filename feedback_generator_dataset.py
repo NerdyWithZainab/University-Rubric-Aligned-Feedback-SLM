@@ -32,7 +32,7 @@ How the generator works (high level)
 
 How to run
 - Python 3.8+
-- Run: python rubric_feedback_dataset_generator.py
+- Run: python feedback_generator_dataset.py
 - Outputs saved to ./output/records.json and ./output/records_sample.csv
 
 Customize
